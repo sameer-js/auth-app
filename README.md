@@ -1,7 +1,7 @@
 # auth-app
 
 Application for registration and user login/authentication.
-Created using MERN stack (MongoDB for database, Express and NodeJS for backend, React and Redux Toolkit for frontend).
+Created using MERN stack (MongoDB for database, Express and NodeJS for backend, React and Redux Toolkit for frontend)
 
 The frontend of this project was created with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
